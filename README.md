@@ -19,17 +19,17 @@ Prerequisites
     Required Python packages (see requirements.txt)
 
 Installation
+Clone this repository:
 
-    Clone this repository:
-
-git clone https://github.com/miladtaleb/Basic-Machine-Learning-Projects.git
-cd Basic-Machine-Learning-Projects
+    git clone https://github.com/miladtaleb/Basic-Machine-Learning-Projects.git
+    cd Basic-Machine-Learning-Projects
 
 Install the dependencies:
 
-pip install -r requirements.txt
+    pip install -r requirements.txt
 
 List of Projects:
+
      Activation Functions
      Building Embedding Layer
      California Housing Three Diff API
