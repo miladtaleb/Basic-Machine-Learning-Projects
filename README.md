@@ -22,8 +22,8 @@ Installation
 
     Clone this repository:
 
-git clone https://github.com/your-username/medical-image-classification.git
-cd medical-image-classification
+git clone https://github.com/miladtaleb/Basic-Machine-Learning-Projects.git
+cd Basic-Machine-Learning-Projects
 
 Install the dependencies:
 
